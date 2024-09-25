@@ -43,7 +43,15 @@ cd git-repos/tab/python-examples/scripts/
 
 ## Running Serial Connections to ta-expt
 
-*TODO*
+Before running the code, you will need to setup the USB to Serial connector to make it run properly. To do this, you will need to connect the wires on the wire to the respective parts of the ta-expt board. These will be self-explanatory as the places where you need to put the wires are labeled on your board as shown below. I have also taken the time to give you the wiring diagram that you will need as well. NOTE: When connecting transmission (TX) to the board, you will need to put that wire in the receiving (RX) part of the board and vice versa for transmission on the board and receiving on the USB-Serial cable. 
+
+![alt text](https://github.com/vt-aoe-nanosat-avionics/tylermwells-TAB-Impementation/blob/main/images/ta-expt%20Board%20without%20wires.jpg)
+
+![alt text](https://github.com/vt-aoe-nanosat-avionics/tylermwells-TAB-Impementation/blob/main/images/TTL-232R-3.3V%20Connector%20Wiring%20Guide.JPG)
+
+In the end, your wiring should look similar to the picture below. If it doesn't or you want it to be double checked, feel free to Slack me. 
+
+![alt text](https://github.com/vt-aoe-nanosat-avionics/tylermwells-TAB-Impementation/blob/main/images/ta-expt%20Board%20without%20wires.jpg)
 
 ## Activating p3-env and Running Code
 
