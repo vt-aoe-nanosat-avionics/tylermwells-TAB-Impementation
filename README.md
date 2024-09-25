@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The sole purpose of this repository is to make it easier to implement the TAB protocol. 
+The sole purpose of this repository is to make a step-by-step installation and running of TAB easier for the ta-expt board. 
 
 ## Getting Started
 
