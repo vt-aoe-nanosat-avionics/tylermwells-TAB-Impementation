@@ -54,7 +54,9 @@ cd /git-repos/tab/python-examples/
 source /p3-env/bin/activate
 ```
 
-When you do this, your command terminal should now have "(p3-env)" in from of your username in the terminal. Finally, to run the program, run the following:
+When you do this, your command terminal should now have "(p3-env)" down below in the following example:
+
+![alt text](https://github.com/vt-aoe-nanosat-avionics/tylermwells-TAB-Impementation/blob/main/images/p3-env-example.png)
 
 ```bash
 cd tx/
