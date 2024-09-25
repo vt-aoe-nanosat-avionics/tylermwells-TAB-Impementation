@@ -51,7 +51,7 @@ Next we will need to source python in order to run the software. In order to do 
 
 ```bash
 cd /git-repos/tab/python-examples/
-source /p3-env/bin/activate
+source p3-env/bin/activate
 ```
 
 When you do this, your command terminal should now have "(p3-env)" down below in the following example:
