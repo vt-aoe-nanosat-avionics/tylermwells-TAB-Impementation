@@ -54,7 +54,13 @@ cd /git-repos/tab/python-examples/
 source /p3-env/bin/activate
 ```
 
-When you do this, your command terminal should now look like this:
+When you do this, your command terminal should now have "(p3-env)" in from of your username in the terminal. Finally, to run the program, run the following:
+
+```bash
+cd tx/
+python3 tx_example.py /dev/ttyUSB0
+```
+NOTE: ttyUSB0 only implies to Ubuntu/Linux distros. Windows will have a different method of sending the information through the serial terminal. 
 
 
 
