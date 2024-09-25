@@ -41,6 +41,22 @@ cd /git-repos/tab/python-examples/scripts/
 ./setup_dependencies.sh
 ```
 
+## Running Serial Connections to ta-expt
+
+*TODO*
+
+## Activating p3-env and Running Code
+
+Next we will need to source python in order to run the software. In order to do this, run the following command:
+
+```bash
+cd /git-repos/tab/python-examples/
+source /p3-env/bin/activate
+```
+
+When you do this, your command terminal should now look like this:
+
+
 
 
 
