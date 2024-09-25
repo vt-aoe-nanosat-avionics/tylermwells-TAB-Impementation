@@ -37,7 +37,7 @@ Next you will need to install python virtual environment and layout the dependen
 sudo apt install python3-venv
 sudo usermod -aG dialout $USER
 sudo shutdown --reboot now
-cd /git-repos/tab/python-examples/scripts/
+cd git-repos/tab/python-examples/scripts/
 ./setup_dependencies.sh
 ```
 
