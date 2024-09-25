@@ -31,7 +31,7 @@ git checkout develop
 
 ## Install Python and Dependencies
 
-Next you will need to install python and layout the dependencies. This will need to be done in two steps as you will need to shutdown the system. To do this, implement the following:
+Next you will need to install python virtual environment and layout the dependencies. This will need to be done in two steps as you will need to shutdown the system. To do this, implement the following:
 
 ```bash
 sudo apt install python3-venv
