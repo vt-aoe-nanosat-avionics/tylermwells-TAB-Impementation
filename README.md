@@ -51,7 +51,7 @@ Before running the code, you will need to setup the USB to Serial connector to m
 
 In the end, your wiring should look similar to the picture below. If it doesn't or you want it to be double checked, feel free to Slack me. 
 
-![alt text](https://github.com/vt-aoe-nanosat-avionics/tylermwells-TAB-Impementation/blob/main/images/ta-expt%20Board%20without%20wires.jpg)
+![alt text](https://github.com/vt-aoe-nanosat-avionics/tylermwells-TAB-Impementation/blob/main/images/ta-expt%20Board%20with%20wires.JPG)
 
 ## Activating p3-env and Running Code
 
